@@ -24,7 +24,6 @@ We work across different areas of software engineering, with a particular intere
 | [RustTurbo](https://github.com/the-golden-army/RustTurbo) | Experimental Rust compilation acceleration | Rust |
 | [Anar](https://github.com/the-golden-army/anar) | A Rust-powered developer editor | Rust |
 | [Room](https://github.com/the-golden-army/room) | Real-time communication and collaboration server | Rust, Actix |
-| [UI Storm](https://github.com/the-golden-army/ui-storm) | Accessible UI components with RTL support | React, TypeScript |
 
 ## Our Principles
 
