@@ -1,4 +1,4 @@
-# ⚔️ The Golden Army
+#  The Golden Army
 
 ### Engineering without compromise.
 
